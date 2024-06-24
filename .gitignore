@@ -1,0 +1,6 @@
+*.log
+*.ini
+*.emperor.log.swp
+
+*.pyc
+__pycache__/
